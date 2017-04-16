@@ -2,21 +2,51 @@
     "docs": [
         {
             "location": "/",
-            "text": "Martin Hensley\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Martin Hensley",
             "title": "Home"
         },
         {
             "location": "/#martin-hensley",
-            "text": "For full documentation visit  mkdocs.org .",
+            "text": "",
             "title": "Martin Hensley"
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/about/",
+            "text": "Martin Hensley\n\n\nA Yooper into nature, technology, and the Green Bay Packers.\n\n\nabout\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\n\n\nPlaces\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "About"
         },
         {
-            "location": "/#project-layout",
+            "location": "/about/#martin-hensley",
+            "text": "A Yooper into nature, technology, and the Green Bay Packers.",
+            "title": "Martin Hensley"
+        },
+        {
+            "location": "/about/#about",
+            "text": "mkdocs new [dir-name]  - Create a new project.",
+            "title": "about"
+        },
+        {
+            "location": "/about/#places",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Places"
+        },
+        {
+            "location": "/about/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/treeverse/",
+            "text": "Places\n\n\neventually some text describing treeverse\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Treeverse"
+        },
+        {
+            "location": "/treeverse/#places",
+            "text": "eventually some text describing treeverse   mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Places"
+        },
+        {
+            "location": "/treeverse/#project-layout",
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
             "title": "Project layout"
         }
