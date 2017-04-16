@@ -1,0 +1,14 @@
+site_name: Martin Hensley
+site_url: https://martinhensley.com
+theme: material
+extra:
+  palette:
+    primary: 'blue grey'
+    accent: 'light blue'
+  logo: 'images/logo.png'
+google_analytics:
+  -  'UA-UA-16725263-1'
+  -  'auto'
+pages:
+    - 'Introduction': 'index.md'
+    - 'About': 'about.md'
