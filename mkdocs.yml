@@ -10,5 +10,6 @@ google_analytics:
   -  'UA-UA-16725263-1'
   -  'auto'
 pages:
-    - 'Introduction': 'index.md'
+    - 'Home': 'index.md'
     - 'About': 'about.md'
+    - 'Treeverse': 'treeverse.md'
